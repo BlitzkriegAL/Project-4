@@ -1,0 +1,10 @@
+div {
+	height: 180px;
+    width: 180px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1000%;
+	font-family: helvetica;
+    background-color: black;
+    display: inline-block;
+}
